@@ -16,9 +16,9 @@ Implementación en PyTorch del algoritmo EfficientDet para detección de objetos
 En primer lugar, se propone una red piramidal de características bidireccionales ponderadas (BiFPN), que permite una fusión de características de múltiples escalas fácil y rápida; En segundo lugar, proponen un método de escalamiento compuesto que escala uniformemente la resolución, la profundidad y el ancho de todas las redes troncales, redes de entidades y redes de predicción de cajas / clases al mismo tiempo.  
 El EfficientDet logra un nuevo AP de COCO al 55,1% de última generación con muchos menos parámetros y FLOP que los detectores anteriores.
 
-<img src="images/flops.png" width="1000">
+<img src="images/flops.png" width="750">
 
-Código del paper disponible en: https://github.com/google/automl/tree/master/efficientdet
+Código del paper disponible en: https://github.com/google/automl/tree/master/efficientdet.
 
 ## Arquitectura del EfficientDet
 <img src="images/network.png" width="1000">
