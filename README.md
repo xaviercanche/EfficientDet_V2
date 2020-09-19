@@ -26,7 +26,7 @@ Código del paper disponible en: https://github.com/google/automl/tree/master/ef
 ## Resultados
 Se realizó el entrenamiento con imágenes de objetos de papelería (tijeras, lápices y libretas) sobre una mesa.
 La complejidad del reconocimiento de estos objetos esta en la similitud de algunos de ellos y la sobreposición de todos ellos en un espacio pequeño.
-<img src="images/output0.jpg" width="750">
-<img src="images/output1.jpg" width="750">
-<img src="images/output2.jpg" width="750">
+<img src="images/output0.jpg" width="400">
+<img src="images/output1.jpg" width="400">
+<img src="images/output2.jpg" width="400">
 
