@@ -21,12 +21,12 @@ El EfficientDet logra un nuevo AP de COCO al 55,1% de última generación con mu
 Código del paper disponible en: https://github.com/google/automl/tree/master/efficientdet.
 
 ## Arquitectura del EfficientDet
-<img src="images/network.png" width="1000">
+<img src="images/network.png" width="800">
 
 ## Resultados
 Se realizó el entrenamiento con imágenes de objetos de papelería (tijeras, lápices y libretas) sobre una mesa.
 La complejidad del reconocimiento de estos objetos esta en la similitud de algunos de ellos y la sobreposición de todos ellos en un espacio pequeño.
-<img src="images/output0.png" width="750">
-<img src="images/output1.png" width="750">
-<img src="images/output2.png" width="750">
+<img src="images/output0.jpg" width="750">
+<img src="images/output1.jpg" width="750">
+<img src="images/output2.jpg" width="750">
 
